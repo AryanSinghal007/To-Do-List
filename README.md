@@ -22,7 +22,7 @@ To set up the application on your local machine, follow these steps:
 
 3. Open a terminal or command prompt and navigate to the project's root directory.
 
-4. Install the project dependencies by running the following command:
+4. Install the project dependencies by running the following command: npm i
 
 5. Start the application by running the following command: node app.js
 

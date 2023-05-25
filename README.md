@@ -22,9 +22,9 @@ To set up the application on your local machine, follow these steps:
 
 3. Open a terminal or command prompt and navigate to the project's root directory.
 
-4. Install the project dependencies by running the following command: npm i
+4. Install the project dependencies by running the following command: `npm i`
 
-5. Start the application by running the following command: node app.js
+5. Start the application by running the following command: `node app.js`
 
 
 6. Open your web browser and visit `http://localhost:3000` to access the to-do list application.

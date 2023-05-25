@@ -11,6 +11,7 @@ The application is built using the following technologies:
 - EJS (Embedded JavaScript): A view engine that generates HTML markup with JavaScript templates.
 - HTML: The standard markup language used for creating the structure and content of web pages.
 - CSS: A styling language used for enhancing the visual presentation of the application.
+- MongoDB: NoSQL Server in which data is stored in JSON format, built on a key-value pair structure.
 
 ## Setup Instructions
 

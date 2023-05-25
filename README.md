@@ -16,7 +16,7 @@ The application is built using the following technologies:
 
 To set up the application on your local machine, follow these steps:
 
-1. Clone the repository from GitHub: [repository-link](https://github.com/AryanSinghal007/To-Do-List)
+1. Clone the repository from GitHub: [Repository-link](https://github.com/AryanSinghal007/To-Do-List)
 
 2. Install Node.js on your machine if you haven't already. You can download it from the official website: [nodejs.org](https://nodejs.org)
 
@@ -38,15 +38,15 @@ To set up the application on your local machine, follow these steps:
 
 If you would like to contribute to this project, please follow these steps:
 
-- **Fork the repository from GitHub.
+- Fork the repository from GitHub.
 
-- **Create a new branch for your feature or bug fix.
+- Create a new branch for your feature or bug fix.
 
-- **Make the necessary changes and commit them.
+- Make the necessary changes and commit them.
 
-- **Push your changes to your forked repository.
+- Push your changes to your forked repository.
 
-- **Submit a pull request describing your changes.
+- Submit a pull request describing your changes.
 
 We appreciate your contributions and will review them as soon as possible.
 
@@ -56,7 +56,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## Acknowledgments
 
-We would like to thank the open-source community for providing valuable resources and inspiration for this project.
+I would like to thank the open-source community for providing valuable resources and inspiration for this project.
 
 If you have any questions or need further assistance, please don't hesitate to contact us. Happy task management!
 

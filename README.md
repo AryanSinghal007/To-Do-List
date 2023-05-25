@@ -18,16 +18,17 @@ To set up the application on your local machine, follow these steps:
 
 1. Clone the repository from GitHub: [Repository-link](https://github.com/AryanSinghal007/To-Do-List)
 
-2. Install Node.js on your machine if you haven't already. You can download it from the official website: [nodejs.org](https://nodejs.org)
+2. Install Node.js and MongoDB on your machine if you haven't already. You can download it from the official website: [nodejs.org](https://nodejs.org) and [MongoDB](https://www.mongodb.com/) 
 
 3. Open a terminal or command prompt and navigate to the project's root directory.
 
 4. Install the project dependencies by running the following command: `npm i`
 
-5. Start the application by running the following command: `node app.js`
+5. Start the mongoDB shell by running the following command: `mongosh` 
 
+6. On a new tab of terminal or command prompt, Start the application by running the command: `node app.js`
 
-6. Open your web browser and visit `http://localhost:3000` to access the to-do list application.
+7. Open your web browser and visit `http://localhost:3000` to access the to-do list application.
 
 ## Images
 

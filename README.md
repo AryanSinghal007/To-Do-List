@@ -19,7 +19,7 @@ To set up the application on your local machine, follow these steps:
 
 1. Clone the repository from GitHub: [Repository-link](https://github.com/AryanSinghal007/To-Do-List)
 
-2. Install Node.js and MongoDB on your machine if you haven't already. You can download it from the official website: [nodejs.org](https://nodejs.org) and [MongoDB](https://www.mongodb.com/) 
+2. Install Node.js and MongoDB on your machine if you haven't already. You can download it from the official website: [NodeJs](https://nodejs.org) and [MongoDB](https://www.mongodb.com/) 
 
 3. Open a terminal or command prompt and navigate to the project's root directory.
 

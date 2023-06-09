@@ -54,7 +54,7 @@ We appreciate your contributions and will review them as soon as possible.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this software as per the terms of this license.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute this software as per the terms of this license.
 
 ## Acknowledgments
 
